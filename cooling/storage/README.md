@@ -1,0 +1,1 @@
+# README for storage in cooling
