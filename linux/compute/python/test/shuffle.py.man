@@ -1,0 +1,22 @@
+.SH NAME
+shuffle.py \- a script to create and shuffle a standard deck of cards
+
+.SH SYNOPSIS
+\fBshuffle.py\fR
+
+.SH DESCRIPTION
+\fBshuffle.py\fR is a Python script that creates a standard deck of 52 playing cards and then shuffles it.
+
+.SH FUNCTIONS
+
+.TP
+\fBcreate_deck()\fR
+This function creates a standard deck of playing cards with 4 suits—Hearts, Diamonds, Clubs, and Spades—and 13 values from 2 to Ace. It returns a list of strings representing each card in the form of "Value of Suit".
+
+.TP
+\fBshuffle_deck(deck)\fR
+This function takes a deck of cards as input and shuffles it in place. The deck must be a list of card strings, such as the one created by the create_deck() function.
+
+.SH EXAMPLES
+
+To run the script and print a sorted and shuffled deck to the console, simply execute the script without any
