@@ -1,1 +1,80 @@
-ZnJvbSBnaXRodWIgaW1wb3J0IEdpdGh1YiwgR2l0aHViRXhjZXB0aW9uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwoKIyBTZXQgdXAgbG9nZ2luZyB3aXRoIGRhdGUgYW5kIHRpbWUgc3RhbXBzCmxvZ2dpbmcuYmFzaWNDb25maWcoZmlsZW5hbWU9J2dpdGh1Yl9zY3JpcHQubG9nJywKICAgICAgICAgICAgICAgICAgICBsZXZlbD1sb2dnaW5nLklORk8sCiAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSlzOiAlKG1lc3NhZ2UpcycsCiAgICAgICAgICAgICAgICAgICAgZGF0ZWZtdD0nJVktJW0tJWQgJUg6JU06JVMnKQoKIyBHaXRIdWIgYXV0aGVudGljYXRpb24KZ2l0aHViX3Rva2VuID0gImdocF9CZXdzemNSTGFmWFZJRXJuRUJMTVU4d2JGbVg5MWszbmVDUGoiICAjIFNlY3VyZSB5b3VyIHRva2VuCmdpdGh1Yl91c2VybmFtZSA9ICJjb2R5c2hvd2FyZCIKcmVwb19uYW1lID0gIlNERENfV29ya1Nob3AiICAjIFJlcG9zaXRvcnkgbmFtZQoKIyBBdXRoZW50aWNhdGUgd2l0aCBHaXRIdWIKZyA9IEdpdGh1YihnaXRodWJfdG9rZW4pCmZvciByZXBvIGluIGcuZ2V0X3VzZXIoKS5nZXRfcmVwb3MoKToKICAgIHByaW50KHJlcG8ubmFtZSkKCiMgRnVuY3Rpb24gdG8gZ2V0IG9yIGNyZWF0ZSBhIHJlcG9zaXRvcnkKZGVmIGdldF9vcl9jcmVhdGVfcmVwbyhnaXRodWJfdXNlcm5hbWUsIHJlcG9fbmFtZSk6CiAgICB0cnk6CiAgICAgICAgIyBUcnkgdG8gZ2V0IHRoZSByZXBvc2l0b3J5IGlmIGl0IGV4aXN0cwogICAgICAgIHJlcG8gPSBnLmdldF91c2VyKCkuZ2V0X3JlcG8ocmVwb19uYW1lKQogICAgICAgIGxvZ2dpbmcuaW5mbyhmIlJlcG9zaXRvcnkgJ3tyZXBvX25hbWV9JyBmb3VuZC4iKQogICAgICAgIHJldHVybiByZXBvCiAgICBleGNlcHQgR2l0aHViRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgaWYgZS5zdGF0dXMgPT0gNDA0OiAgIyBDaGVjayBpZiBpdCdzIGEgJ05vdCBGb3VuZCcgZXhjZXB0aW9uCiAgICAgICAgICAgICMgQ3JlYXRlIHRoZSByZXBvc2l0b3J5IGlmIGl0IGRvZXNuJ3QgZXhpc3QKICAgICAgICAgICAgbG9nZ2luZy5pbmZvKGYiUmVwb3NpdG9yeSAne3JlcG9fbmFtZX0nIG5vdCBmb3VuZCwgY3JlYXRpbmcgbmV3IG9uZS4iKQogICAgICAgICAgICByZXR1cm4gZy5nZXRfdXNlcigpLmNyZWF0ZV9yZXBvKHJlcG9fbmFtZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICAjIElmIGl0J3MgYSBkaWZmZXJlbnQgZXhjZXB0aW9uLCByZS1yYWlzZSBpdAogICAgICAgICAgICByYWlzZQoKIyBGdW5jdGlvbiB0byBjaGVjayBpZiBhIGZpbGUgZXhpc3RzIGluIHRoZSByZXBvCmRlZiBmaWxlX2V4aXN0c19pbl9yZXBvKHJlcG8sIHBhdGgpOgogICAgdHJ5OgogICAgICAgIHJlcG8uZ2V0X2NvbnRlbnRzKHBhdGgpCiAgICAgICAgcmV0dXJuIFRydWUKICAgIGV4Y2VwdDoKICAgICAgICByZXR1cm4gRmFsc2UKCiMgRnVuY3Rpb24gdG8gY3JlYXRlIGEgZmlsZSBpbiB0aGUgcmVwb3NpdG9yeSBpZiBpdCBkb2Vzbid0IGV4aXN0CmRlZiBjcmVhdGVfZmlsZV9pbl9yZXBvKHJlcG8sIHBhdGgsIG1lc3NhZ2UsIGNvbnRlbnQpOgogICAgaWYgbm90IGZpbGVfZXhpc3RzX2luX3JlcG8ocmVwbywgcGF0aCk6CiAgICAgICAgcmVwby5jcmVhdGVfZmlsZShwYXRoLCBtZXNzYWdlLCBjb250ZW50KQogICAgICAgIGxvZ2dpbmcuaW5mbyhmIkNyZWF0ZWQgZmlsZSB7cGF0aH0iKQogICAgICAgICMgTG9nIHRoZSBjcmVhdGlvbiBvZiB0aGUgZGlyZWN0b3J5IHN0cnVjdHVyZQogICAgICAgIGRpcmVjdG9yeV9wYXRoID0gb3MucGF0aC5kaXJuYW1lKHBhdGgpCiAgICAgICAgaWYgZGlyZWN0b3J5X3BhdGg6CiAgICAgICAgICAgIGxvZ2dpbmcuaW5mbyhmIkNyZWF0ZWQgZGlyZWN0b3J5IHN0cnVjdHVyZToge2RpcmVjdG9yeV9wYXRofSIpCgojIEZ1bmN0aW9uIHRvIGNyZWF0ZSB0aGUgZGlyZWN0b3J5IHN0cnVjdHVyZQpkZWYgY3JlYXRlX2RpcmVjdG9yeV9zdHJ1Y3R1cmUocmVwbyk6CiAgICB0b3BfbGV2ZWxfZGlycyA9IFsidWNzIiwgInBvd2VyIiwgImNvb2xpbmciLCAicHVyZWZhIiwgInB1cmVmYiIsICJsaW51eCIsICJ2c3BoZXJlIiwgIndpbmRvd3MiLCAiYW5zaWJsZSIsICJuZXRib3giLCAiZnRkIiwgImJpZ2lwIiwgIm5leHVzIiwgImFjaSJdCgogICAgZm9yIHRvcF9kaXIgaW4gdG9wX2xldmVsX2RpcnM6CiAgICAgICAgc2Vjb25kX2xldmVsX2RpcnMgPSBbImNvbXB1dGUiLCAibmV0d29yayIsICJzdG9yYWdlIl0KICAgICAgICBmb3Igc2Vjb25kX2RpciBpbiBzZWNvbmRfbGV2ZWxfZGlyczoKICAgICAgICAgICAgc2Vjb25kX3BhdGggPSBmInt0b3BfZGlyfS97c2Vjb25kX2Rpcn0vUkVBRE1FLm1kIgogICAgICAgICAgICBpZiBub3QgZmlsZV9leGlzdHNfaW5fcmVwbyhyZXBvLCBzZWNvbmRfcGF0aCk6CiAgICAgICAgICAgICAgICBjcmVhdGVfZmlsZV9pbl9yZXBvKHJlcG8sIHNlY29uZF9wYXRoLCAiSW5pdGlhbCBjb21taXQgZm9yIHNlY29uZCBsZXZlbCBkaXIiLCBmIiMgUkVBRE1FIGZvciB7c2Vjb25kX2Rpcn0gaW4ge3RvcF9kaXJ9IikKCiAgICAgICAgICAgICAgICB0aGlyZF9sZXZlbF9kaXJzID0gWyJpdmFudGkiLCAiYW5zaWJsZSIsICJiYXNoIiwgInBvd2Vyc2hlbGwiLCAicHl0aG9uIl0KICAgICAgICAgICAgICAgIGZvciB0aGlyZF9kaXIgaW4gdGhpcmRfbGV2ZWxfZGlyczoKICAgICAgICAgICAgICAgICAgICBmb3VydGhfbGV2ZWxfZGlycyA9IFsicHJvZCIsICJ0ZXN0Il0KICAgICAgICAgICAgICAgICAgICBmb3IgZm91cnRoX2RpciBpbiBmb3VydGhfbGV2ZWxfZGlyczoKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZV9wYXRoID0gZiJ7dG9wX2Rpcn0ve3NlY29uZF9kaXJ9L3t0aGlyZF9kaXJ9L3tmb3VydGhfZGlyfS9SRUFETUUubWQiCiAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZV9maWxlX2luX3JlcG8ocmVwbywgZmlsZV9wYXRoLCAiSW5pdGlhbCBjb21taXQiLCBmIiMgUkVBRE1FIGZvciB7Zm91cnRoX2Rpcn0gaW4ge3RoaXJkX2Rpcn0iKQoKZGVmIG1haW4oKToKICAgIGxvZ2dpbmcuaW5mbygiU2NyaXB0IHN0YXJ0ZWQiKQogICAgcmVwbyA9IGdldF9vcl9jcmVhdGVfcmVwbyhnaXRodWJfdXNlcm5hbWUsIHJlcG9fbmFtZSkKICAgIGNyZWF0ZV9kaXJlY3Rvcnlfc3RydWN0dXJlKHJlcG8pCiAgICBsb2dnaW5nLmluZm8oIlNjcmlwdCBmaW5pc2hlZCIpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+from github import Github, GithubException
+import logging
+import os
+
+# Set up logging with date and time stamps
+logging.basicConfig(filename='github_script.log',
+                    level=logging.INFO,
+                    format='%(asctime)s %(levelname)s: %(message)s',
+                    datefmt='%Y-%m-%d %H:%M:%S')
+
+# GitHub authentication
+github_token = "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"  # Secure your token
+github_username = "codyshoward"
+repo_name = "SDDC_WorkShop"  # Repository name
+
+# Authenticate with GitHub
+g = Github(github_token)
+for repo in g.get_user().get_repos():
+    print(repo.name)
+
+# Function to get or create a repository
+def get_or_create_repo(github_username, repo_name):
+    try:
+        # Try to get the repository if it exists
+        repo = g.get_user().get_repo(repo_name)
+        logging.info(f"Repository '{repo_name}' found.")
+        return repo
+    except GithubException as e:
+        if e.status == 404:  # Check if it's a 'Not Found' exception
+            # Create the repository if it doesn't exist
+            logging.info(f"Repository '{repo_name}' not found, creating new one.")
+            return g.get_user().create_repo(repo_name)
+        else:
+            # If it's a different exception, re-raise it
+            raise
+
+# Function to check if a file exists in the repo
+def file_exists_in_repo(repo, path):
+    try:
+        repo.get_contents(path)
+        return True
+    except:
+        return False
+
+# Function to create a file in the repository if it doesn't exist
+def create_file_in_repo(repo, path, message, content):
+    if not file_exists_in_repo(repo, path):
+        repo.create_file(path, message, content)
+        logging.info(f"Created file {path}")
+        # Log the creation of the directory structure
+        directory_path = os.path.dirname(path)
+        if directory_path:
+            logging.info(f"Created directory structure: {directory_path}")
+
+# Function to create the directory structure
+def create_directory_structure(repo):
+    top_level_dirs = ["ucs", "power", "cooling", "purefa", "purefb", "linux", "vsphere", "windows", "ansible", "netbox", "ftd", "bigip", "nexus", "aci"]
+
+    for top_dir in top_level_dirs:
+        second_level_dirs = ["compute", "network", "storage"]
+        for second_dir in second_level_dirs:
+            second_path = f"{top_dir}/{second_dir}/README.md"
+            if not file_exists_in_repo(repo, second_path):
+                create_file_in_repo(repo, second_path, "Initial commit for second level dir", f"# README for {second_dir} in {top_dir}")
+
+                third_level_dirs = ["ivanti", "ansible", "bash", "powershell", "python"]
+                for third_dir in third_level_dirs:
+                    fourth_level_dirs = ["prod", "test"]
+                    for fourth_dir in fourth_level_dirs:
+                        file_path = f"{top_dir}/{second_dir}/{third_dir}/{fourth_dir}/README.md"
+                        create_file_in_repo(repo, file_path, "Initial commit", f"# README for {fourth_dir} in {third_dir}")
+
+def main():
+    logging.info("Script started")
+    repo = get_or_create_repo(github_username, repo_name)
+    create_directory_structure(repo)
+    logging.info("Script finished")
+
+if __name__ == "__main__":
+    main()
