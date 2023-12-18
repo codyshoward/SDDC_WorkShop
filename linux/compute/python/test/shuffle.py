@@ -1,1 +1,23 @@
-aW1wb3J0IHJhbmRvbQoKZGVmIGNyZWF0ZV9kZWNrKCk6CiAgICAiIiIgQ3JlYXRlIGEgc3RhbmRhcmQgZGVjayBvZiBjYXJkcyAiIiIKICAgIHN1aXRzID0gWydIZWFydHMnLCAnRGlhbW9uZHMnLCAnQ2x1YnMnLCAnU3BhZGVzJ10KICAgIHZhbHVlcyA9IFsnMicsICczJywgJzQnLCAnNScsICc2JywgJzcnLCAnOCcsICc5JywgJzEwJywgJ0phY2snLCAnUXVlZW4nLCAnS2luZycsICdBY2UnXQogICAgcmV0dXJuIFtmJ3t2YWx1ZX0gb2Yge3N1aXR9JyBmb3Igc3VpdCBpbiBzdWl0cyBmb3IgdmFsdWUgaW4gdmFsdWVzXQoKZGVmIHNodWZmbGVfZGVjayhkZWNrKToKICAgICIiIiBTaHVmZmxlIHRoZSBkZWNrIG9mIGNhcmRzICIiIgogICAgcmFuZG9tLnNodWZmbGUoZGVjaykKCmRlZiBtYWluKCk6CiAgICBkZWNrID0gY3JlYXRlX2RlY2soKQogICAgcHJpbnQoIk9yaWdpbmFsIGRlY2s6IikKICAgIHByaW50KGRlY2spCgogICAgc2h1ZmZsZV9kZWNrKGRlY2spCiAgICBwcmludCgiXG5TaHVmZmxlZCBkZWNrOiIpCiAgICBwcmludChkZWNrKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+import random
+
+def create_deck():
+    """ Create a standard deck of cards """
+    suits = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
+    values = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King', 'Ace']
+    return [f'{value} of {suit}' for suit in suits for value in values]
+
+def shuffle_deck(deck):
+    """ Shuffle the deck of cards """
+    random.shuffle(deck)
+
+def main():
+    deck = create_deck()
+    print("Original deck:")
+    print(deck)
+
+    shuffle_deck(deck)
+    print("\nShuffled deck:")
+    print(deck)
+
+if __name__ == "__main__":
+    main()
