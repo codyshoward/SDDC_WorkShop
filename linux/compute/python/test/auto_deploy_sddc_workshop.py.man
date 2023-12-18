@@ -1,0 +1,19 @@
+.TH AUTO_DEPLOY_SDDC_WORKSHOP 1 "2023-04-17" "1.0" "Auto Deploy SDDC Workshop Script Manual"
+
+.SH NAME
+auto_deploy_sddc_workshop.py \- Script to automate deployment and setup of SDDC Workshop repository and its directory structure on GitHub.
+
+.SH SYNOPSIS
+.B auto_deploy_sddc_workshop.py
+
+.SH DESCRIPTION
+auto_deploy_sddc_workshop.py is a script designed to set up a GitHub repository named "SDDC_WorkShop". It creates a predefined directory structure and populates it with README files. Additionally, it logs its actions for record-keeping and error diagnostics purposes.
+
+.SH OPTIONS
+There are no configurable options for this script through the command line. All configurations such as GitHub token, username, and repository name are set within the script code.
+
+.SH REQUIREMENTS
+To use this script, you must have the following dependencies installed:
+.TP
+Python 3.x
+.TP
