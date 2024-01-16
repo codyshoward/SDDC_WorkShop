@@ -8,7 +8,7 @@ logging.basicConfig(filename='script.log', level=logging.INFO,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
 # OpenAI GPT-3 API credentials
-api_key = "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"
+api_key = "sk-restofkey*"
 client = openai.Client(api_key=api_key)
 
 # GitHub authentication
