@@ -12,9 +12,9 @@ api_key = "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"
 client = openai.Client(api_key=api_key)
 
 # GitHub authentication
-github_token = "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"
+github_token = "ghp_*"
 github_username = "codyshoward"
-github_pat = "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"  # Replace with your GitHub PAT
+github_pat = "ghp_*"  # Replace with your GitHub PAT
 github_email = "codyshoward@gmail.com"
 # GitHub Repo
 repo_name = "SDDC_WorkShop"
