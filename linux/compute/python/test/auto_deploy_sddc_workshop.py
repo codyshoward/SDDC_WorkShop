@@ -9,7 +9,7 @@ logging.basicConfig(filename='github_script.log',
                     datefmt='%Y-%m-%d %H:%M:%S')
 
 # GitHub authentication
-github_token = "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"  # Secure your token
+github_token = "ghp_"  # Secure your token
 github_username = "codyshoward"
 repo_name = "SDDC_WorkShop"  # Repository name
 
